@@ -42,4 +42,7 @@ Find me on Github @ [cooperrc1](http://github.com/cooperrc1)
 This project is open source and available under the Mozilla
 
 
+Video Showcase: https://drive.google.com/file/d/15awOxJ2FSkOBSPfWcH9H6RIcj7B-hY-U/view
+
+
     
